@@ -1,0 +1,14 @@
+github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
+github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
+golang.org/x/mod v0.28.0 h1:gQBtGhjxykdjY9YhZpSlZIsbnaE2+PgjfLWUQTnoZ1U=
+golang.org/x/mod v0.28.0/go.mod h1:yfB/L0NOf/kmEbXjzCPOx1iK1fRutOydrCMsqRhEBxI=
+golang.org/x/sync v0.17.0 h1:l60nONMj9l5drqw6jlhIELNv9I0A4OFgRsG9k2oT9Ug=
+golang.org/x/sync v0.17.0/go.mod h1:9KTHXmSnoGruLpwFjVSX0lNNA75CykiMECbovNTZqGI=
+golang.org/x/sys v0.36.0 h1:KVRy2GtZBrk1cBYA7MKu5bEZFxQk4NIDV6RLVcC8o0k=
+golang.org/x/sys v0.36.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
+golang.org/x/telemetry v0.0.0-20251001141935-4eae98a72453 h1:UMcclxirvpV79c6GDkin5Z9OeBachvXq6x4cUCGWhWY=
+golang.org/x/telemetry v0.0.0-20251001141935-4eae98a72453/go.mod h1:+nZKN+XVh4LCiA9DV3ywrzN4gumyCnKjau3NGb9SGoE=
+golang.org/x/tools v0.35.1-0.20250728180453-01a3475a31bc h1:ZRKyKRJl/YEWl9ScZwd6Ua6xSt7DE6tHp1I3ucMroGM=
+golang.org/x/tools v0.35.1-0.20250728180453-01a3475a31bc/go.mod h1:NKdj5HkL/73byiZSJjqJgKn3ep7KjFkBOkR/Hps3VPw=
+golang.org/x/tools/gopls v0.20.0 h1:fxOYZXKl6IsOTKIh6IgjDbIDHlr5btOtOUkrGOgFDB4=
+golang.org/x/tools/gopls v0.20.0/go.mod h1:vxYUZ8l4swjbvTQJJONmVfbHsd1ovixCwB7sodBbTYI=
